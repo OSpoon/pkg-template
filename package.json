@@ -1,5 +1,5 @@
 {
-  "name": "pkg-template",
+  "name": "pkg-template-ts",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@9.0.2",
@@ -7,12 +7,12 @@
   "author": "OSpoon <zxin088@gmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/ospoon",
-  "homepage": "https://github.com/ospoon/pkg-template#readme",
+  "homepage": "https://github.com/ospoon/pkg-template-ts#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ospoon/pkg-template.git"
+    "url": "git+https://github.com/ospoon/pkg-template-ts.git"
   },
-  "bugs": "https://github.com/ospoon/pkg-template/issues",
+  "bugs": "https://github.com/ospoon/pkg-template-ts/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
