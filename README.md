@@ -11,10 +11,6 @@ _description_
 > **Note**:
 > Replace `pkg-template-ts`, `_description_` and `ospoon` globally to use this template.
 
-## Thanks
-
-[Anthony Fu](https://github.com/antfu)
-
 ## License
 
 [MIT](./LICENSE) License © 2023-PRESENT [OSpoon](https://github.com/ospoon)
